@@ -1,0 +1,8 @@
+{
+  "name": "ismemdev",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "e2ecb64b"
+}
